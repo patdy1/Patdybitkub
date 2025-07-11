@@ -1,4 +1,3 @@
-# Patdybitkub
 local Players = game:GetService("Players")
 local GuiService = game:GetService("GuiService")
 local Lighting = game:GetService("Lighting")
